@@ -1,0 +1,1 @@
+CORE=B,MATH=A,PE=A+
